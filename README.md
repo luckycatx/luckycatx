@@ -1,6 +1,17 @@
 🍁
 
+<div align="center">
+  <a href="https://github.com/luckycatx">
+    <img src="/assets/grid-snake.svg" alt="snake">
+  </a>
+</div>
+
 ## 📊 GitHub Stats:
 
-<img alt="lucky's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luckycatx&theme=white&&hide_border=true" width='47%' /> <img alt="lucky's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=luckycatx&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" width='47%' />
-<br>
+<div align="center">
+  
+| <img alt="lucky's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luckycatx&theme=ambient_gradient "/> | <img alt="lucky's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luckycatx&count_private=true&include_all_commits=true&theme=ambient_gradient&show_icons=true "/> |
+|:------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luckycatx&theme=solarized&layout=compact" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luckycatx&theme=solarized&layout=compact" /> |
+
+</div>
