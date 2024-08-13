@@ -1,4 +1,6 @@
 🍁
 
-[![lucky's stats](https://github-readme-stats.vercel.app/api?username=luckycatx&count_private=true&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckycatx)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
+
+<img alt="lucky's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky&theme=white&&hide_border=true" width='47%' /> <img alt="lucky's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=lucky&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" width='47%' />
+<br>
